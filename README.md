@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anadisingh-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anadisingh-collab/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anadisingh-collab/leetcode/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
