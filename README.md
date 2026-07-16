@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anadisingh-collab/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anadisingh-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -41,17 +42,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anadisingh-collab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anadisingh-collab/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
