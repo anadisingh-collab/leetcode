@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anadisingh-collab/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/anadisingh-collab/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
