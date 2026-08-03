@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/anadisingh-collab/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anadisingh-collab/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/anadisingh-collab/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anadisingh-collab/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anadisingh-collab/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
