@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anadisingh-collab/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anadisingh-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anadisingh-collab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anadisingh-collab/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/anadisingh-collab/leetcode/tree/master/0704-binary-search) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anadisingh-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anadisingh-collab/leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/anadisingh-collab/leetcode/tree/master/3731-find-missing-elements) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/anadisingh-collab/leetcode/tree/master/0645-set-mismatch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anadisingh-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
