@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anadisingh-collab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anadisingh-collab/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/anadisingh-collab/leetcode/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anadisingh-collab/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anadisingh-collab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anadisingh-collab/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anadisingh-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anadisingh-collab/leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anadisingh-collab/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anadisingh-collab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anadisingh-collab/leetcode/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anadisingh-collab/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anadisingh-collab/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
