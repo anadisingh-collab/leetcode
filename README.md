@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anadisingh-collab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/anadisingh-collab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0229-majority-element-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anadisingh-collab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/anadisingh-collab/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/anadisingh-collab/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/anadisingh-collab/leetcode/tree/master/2942-find-words-containing-character) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anadisingh-collab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anadisingh-collab/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anadisingh-collab/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
