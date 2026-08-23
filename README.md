@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anadisingh-collab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anadisingh-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anadisingh-collab/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anadisingh-collab/leetcode/tree/master/0035-search-insert-position) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anadisingh-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anadisingh-collab/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/anadisingh-collab/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anadisingh-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anadisingh-collab/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
