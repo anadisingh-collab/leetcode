@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anadisingh-collab/leetcode/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anadisingh-collab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anadisingh-collab/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anadisingh-collab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/anadisingh-collab/leetcode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
 ## Enumeration
@@ -206,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -235,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anadisingh-collab/leetcode/tree/master/0048-rotate-image) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
