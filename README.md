@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anadisingh-collab/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anadisingh-collab/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anadisingh-collab/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/anadisingh-collab/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anadisingh-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anadisingh-collab/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/anadisingh-collab/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anadisingh-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anadisingh-collab/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anadisingh-collab/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/anadisingh-collab/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
