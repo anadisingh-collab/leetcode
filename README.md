@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anadisingh-collab/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anadisingh-collab/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anadisingh-collab/leetcode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/anadisingh-collab/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anadisingh-collab/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3904-smallest-stable-index-ii](https://github.com/anadisingh-collab/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
