@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/anadisingh-collab/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anadisingh-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anadisingh-collab/leetcode/tree/master/0198-house-robber) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anadisingh-collab/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anadisingh-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anadisingh-collab/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anadisingh-collab/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anadisingh-collab/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anadisingh-collab/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anadisingh-collab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anadisingh-collab/leetcode/tree/master/0704-binary-search) |
