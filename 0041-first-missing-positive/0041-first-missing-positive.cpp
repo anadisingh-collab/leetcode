@@ -9,7 +9,7 @@ public:
         int i = 1;
 
         while (freq.find(i) != freq.end()) {
-      i++;
+       i++;
     }
 
 return i;
