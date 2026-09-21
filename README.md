@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anadisingh-collab/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anadisingh-collab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anadisingh-collab/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/anadisingh-collab/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/anadisingh-collab/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anadisingh-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anadisingh-collab/leetcode/tree/master/0055-jump-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anadisingh-collab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/anadisingh-collab/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/anadisingh-collab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anadisingh-collab/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0229-majority-element-ii) |
