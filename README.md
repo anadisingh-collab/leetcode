@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anadisingh-collab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anadisingh-collab/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anadisingh-collab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anadisingh-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/anadisingh-collab/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/anadisingh-collab/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anadisingh-collab/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -296,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anadisingh-collab/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
