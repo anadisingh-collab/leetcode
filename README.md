@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anadisingh-collab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anadisingh-collab/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anadisingh-collab/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anadisingh-collab/leetcode/tree/master/0075-sort-colors) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anadisingh-collab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anadisingh-collab/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anadisingh-collab/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anadisingh-collab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anadisingh-collab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anadisingh-collab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anadisingh-collab/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/anadisingh-collab/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anadisingh-collab/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anadisingh-collab/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
