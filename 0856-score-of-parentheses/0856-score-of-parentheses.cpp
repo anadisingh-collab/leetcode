@@ -4,9 +4,9 @@ public:
         int score = 0, depth = 0;
         for (int i = 0; i < s.size(); ++i) {
             if (s[i] == '(') {
-                ++depth;
+                depth++;
             } else {
-                --depth;
+                depth--;
                 if (s[i - 1] == '(') {
                     score += pow(2,depth);
                 }
