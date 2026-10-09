@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anadisingh-collab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1496-path-crossing](https://github.com/anadisingh-collab/leetcode/tree/master/1496-path-crossing) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anadisingh-collab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anadisingh-collab/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/anadisingh-collab/leetcode/tree/master/2942-find-words-containing-character) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anadisingh-collab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/anadisingh-collab/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anadisingh-collab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anadisingh-collab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/anadisingh-collab/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anadisingh-collab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anadisingh-collab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anadisingh-collab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anadisingh-collab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
