@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anadisingh-collab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/anadisingh-collab/leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anadisingh-collab/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anadisingh-collab/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anadisingh-collab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anadisingh-collab/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anadisingh-collab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anadisingh-collab/leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anadisingh-collab/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anadisingh-collab/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/anadisingh-collab/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anadisingh-collab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anadisingh-collab/leetcode/tree/master/2029-stone-game-ix) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anadisingh-collab/leetcode/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anadisingh-collab/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anadisingh-collab/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anadisingh-collab/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/anadisingh-collab/leetcode/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anadisingh-collab/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anadisingh-collab/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anadisingh-collab/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
@@ -360,4 +364,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anadisingh-collab/leetcode/tree/master/0022-generate-parentheses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anadisingh-collab/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anadisingh-collab/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
