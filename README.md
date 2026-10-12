@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anadisingh-collab/leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/anadisingh-collab/leetcode/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/anadisingh-collab/leetcode/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/anadisingh-collab/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anadisingh-collab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anadisingh-collab/leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anadisingh-collab/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
