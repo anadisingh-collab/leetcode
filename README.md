@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anadisingh-collab/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anadisingh-collab/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anadisingh-collab/leetcode/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/anadisingh-collab/leetcode/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/anadisingh-collab/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anadisingh-collab/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anadisingh-collab/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/anadisingh-collab/leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3895-count-digit-appearances](https://github.com/anadisingh-collab/leetcode/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
